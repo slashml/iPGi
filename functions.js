@@ -3,6 +3,7 @@
 
 function next_q()
 {
+	console.log("this is the start of the questions")
 	if ( $('#end').hasClass('hide') == true )
 	{
 		
