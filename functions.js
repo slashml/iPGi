@@ -20,7 +20,6 @@ function next_q()
 			$('#question').addClass('hide');
 			$('#timer').addClass('hide');
 			$('.pg').addClass('hide');
-			
 			$('#end').removeClass('hide');
 		}
 	}
